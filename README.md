@@ -15,3 +15,4 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Arroyo Escudero, José Antonio](url_repositorio_del_proyecto)
 * [Barroso Del Río, Ángel](url_repositorio_del_proyecto)
 * [Bernal Guerrero, David](url_repositorio_del_proyecto)
+* [Moreno Hernández, Eduardo Jesús](https://github.com/EduMoreno/Proyecto-Final-DAW2-PROTUBE-) Titulo proyecto: PROTUBE.
